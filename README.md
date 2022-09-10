@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Jéssica Gonçalves
 
 
-- 🔭 Trabalhando como Analista de Sistemas LIMS
+- 🔭 Trabalhando como Analista de Sistemas LIMS / LIMS System Analyst
 - 🌱 Estou estudando Java
-- 📫 Como me achar: jessicagsanttos@gmail.com
+- 📫 Como me achar/ how to find me: jessicagsanttos@gmail.com
 
 
 <div align="center">
